@@ -13,5 +13,5 @@ I hope you like it!
 <br>
 <br>
 <br>
-<br>
-![샘플이미지 입니다](../_site/assets/images/logo/linkedin_banner_image_1.png)
+
+![샘플이미지 입니다](/assets/images/logo/linkedin_banner_image_1.png)
