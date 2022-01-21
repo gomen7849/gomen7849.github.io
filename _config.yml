@@ -110,27 +110,27 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:go7849@email.com"
+      url: "mailto:go7849@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://gomen7849.github.io/"
+      url: "https://gomen7849.github.io/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/go7849"
+      url: "https://facebook.com/go7849"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/GoYongSuk/G.Y.S_project"
+      url: "https://github.com/GoYongSuk/G.Y.S_project"
     
 
 # Site Footer
 footer:
   links:
     - label: "Facebook"
-      icon: "https://facebook.com/go7849"
-       url:
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/go7849"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/GoYongSuk/G.Y.S_project"
+      url: "https://github.com/GoYongSuk/G.Y.S_project"
     
 
 
